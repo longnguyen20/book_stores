@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NT118-AppBookStores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">Details</string>
+    <string name="details_text">Để căn lề phải của một ImageView trong một LinearLayout ngang (horizontal), bạn có thể sử dụng thuộc tính layout_gravity hoặc layout_marginEnd (hoặc marginEnd nếu bạn sử dụng API level 17 trở lên)</string>
+    <string name="default_web_client_id">659929254131-h39ha5are3mkcc3nb7efvfapofndgce6.apps.googleusercontent.com</string>
+</resources>

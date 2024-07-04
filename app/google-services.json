@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659929254131",
+    "firebase_url": "https://appbookstores-1dd75-default-rtdb.firebaseio.com",
+    "project_id": "appbookstores-1dd75",
+    "storage_bucket": "appbookstores-1dd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659929254131:android:60025161ee43b98ff88f86",
+        "android_client_info": {
+          "package_name": "com.example.nt118_appbookstores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDXbPDKdbKRmQlvS2P1bJaJK0uhnnqfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
